@@ -9,6 +9,6 @@ const isPangram = (phrase: string): boolean => {
 }
 // console.log(isPangram("The quick brown fox jumps over the lazy dog."))//, true);
 // console.log(isPangram("This is not a pangram."))//, false);
-// console.log(isPangram("abcdefghijklmnopqrstuvwxyz"))//, false);
+// console.log(isPangram("abcdefghijklmnopqrstuvwxyz"))//, true);
 
 // Time:40 mins
